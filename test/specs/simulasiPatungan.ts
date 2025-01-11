@@ -41,7 +41,4 @@ describe('Simulasi Patungan', () => {
         await browser.reloadSession();
     })
 
-
-
-
 })
