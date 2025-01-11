@@ -1,0 +1,5 @@
+- npm init -y (it create package.json)
+- npm init wdio (Jasmine and typescript)
+- how to run it? "npx wdio run wdio.conf.ts"
+- how to run by spec? "npx wdio run wdio.conf.ts --spec test\specs\register.ts"
+
